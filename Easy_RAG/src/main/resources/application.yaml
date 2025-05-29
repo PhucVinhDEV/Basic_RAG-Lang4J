@@ -1,0 +1,8 @@
+spring:
+ application:
+  name: Easy_RAG
+ google:
+  ai:
+    project-id: bitznomad
+    location: us-central1  # Common Google AI API location
+    model: gemini-2.0-flash  # You can choose gemini-1.5-pro, gemini-1.5-flash, etc.
